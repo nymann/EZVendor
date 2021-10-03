@@ -11,10 +11,10 @@ https://github.com/vadash/EZVendor/blob/master/EZVendorCore.cs#L60
 
 Download https://github.com/vadash/EZVendor/archive/master.zip
 
-Extract to `PoEHelper\Plugins\Source`
+Extract to `PoeHelper\Plugins\Source`
 
 Delete `-master` from folder name
 
-Correct path is `PoEHelper\Plugins\Source\EZVendor` and inside should be cs file
+Correct path is `PoeHelper\Plugins\Source\EZVendor` and inside should be cs file
 
 You DONT need to compile. It will run just fine

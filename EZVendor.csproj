@@ -19,7 +19,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>C:\projects\PoeHelper\Plugins\Compiled\EZVendor\</OutputPath>
+    <OutputPath>..\..\..\..\PoeHelper\Plugins\Compiled\EZVendor\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -28,27 +28,27 @@
     <PlatformTarget>x64</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>C:\projects\PoeHelper\Plugins\Compiled\EZVendor\</OutputPath>
+    <OutputPath>..\..\..\..\PoeHelper\Plugins\Compiled\EZVendor\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="ExileCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\PoEHelper\ExileCore.dll</HintPath>
+      <HintPath>..\..\..\..\PoeHelper\ExileCore.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="ImGui.NET, Version=1.71.0.0, Culture=neutral, PublicKeyToken=null">
-      <HintPath>..\..\..\..\PoEHelper\ImGui.NET.dll</HintPath>
+      <HintPath>..\..\..\..\PoeHelper\ImGui.NET.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
-      <HintPath>..\..\..\..\PoEHelper\Newtonsoft.Json.dll</HintPath>
+      <HintPath>..\..\..\..\PoeHelper\Newtonsoft.Json.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="SharpDX.Mathematics, Version=4.2.0.0, Culture=neutral, PublicKeyToken=b4dcf0f35e5521f1">
-      <HintPath>..\..\..\..\PoEHelper\SharpDX.Mathematics.dll</HintPath>
+      <HintPath>..\..\..\..\PoeHelper\SharpDX.Mathematics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
